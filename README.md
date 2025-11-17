@@ -20,7 +20,7 @@ This Python project allows you to generate a Spotify playlist with 10 songs from
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/spotify-genre-playlist.git
+git clone [(https://github.com/RomSNM/SpotAPI/tree/main)]
 cd spotify-genre-playlist
 ```
 
